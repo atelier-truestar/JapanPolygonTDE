@@ -27,7 +27,7 @@ https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N03-v2_3.html#prefecture00
  4. 国土数値情報2019全国ポリゴン.twbx / 国土数値情報2019全国ポリゴン-hyper版.twbx
     - 1,2,3のデータソースから作成したワークブックです。
  
-[Tableau Public上でも公開しています。](https://tabsoft.co/2LbUrjQ) ご参考までに。　※公開しているワークブックのデータソースはTDE版のみです。
+[Tableau Public上でも公開しています。](https://tabsoft.co/2LbUrjQ) ご参考までに。　※公開しているワークブックのデータソースは2019年のTDE版のみです。
  
 ### 利用規約  
 国土数値情報の利用規約
